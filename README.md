@@ -4,6 +4,7 @@
 **나도 개발 잘하고 싶다🔥🔥 🔥**
 
 <a href="https://github.com/SONPYEONGHWA/SONPYEONGHWA/edit/main/README.md" target="_blank"><img src="https://img.shields.io/badge/Kotlin-orange?style=flat-square&logo=Kotlin&logoColor=white"/> <a href="https://github.com/SONPYEONGHWA/SONPYEONGHWA/edit/main/README.md" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a> <a href="https://github.com/SONPYEONGHWA/SONPYEONGHWA/edit/main/README.md" target="_blank"><img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/></a>
+ 
  <a href="https://github.com/SONPYEONGHWA/SONPYEONGHWA/edit/main/README.md" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a> <a href="https://github.com/SONPYEONGHWA/SONPYEONGHWA/edit/main/README.md" target="_blank"><img src="https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=SAP&logoColor=white"/></a> <a href="https://github.com/SONPYEONGHWA/SONPYEONGHWA/edit/main/README.md" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a> <a href="https://github.com/SONPYEONGHWA/SONPYEONGHWA/edit/main/README.md" target="_blank"><img src="https://img.shields.io/badge/Slack-4a154b?style=flat-square&logo=notion&logoColor=white"/></a> 
 
 
