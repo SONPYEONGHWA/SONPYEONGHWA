@@ -15,7 +15,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SONPYEONGHWA&hide=contribs,prs)
 
 **Major in Management Information System at MyongJi Univ (2015~)**
+
 **Android part in SOPT 26th, 27th, 28th (2020~)**
+
 **KH Information Educational Institute (2019)**
 
 
