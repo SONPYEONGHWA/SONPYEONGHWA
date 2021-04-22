@@ -15,7 +15,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SONPYEONGHWA&hide=contribs,prs)
 
 **Major in Management Information System at MyongJi Univ (2015~)**  
+**KH Information Educational Institute (2019)**  
 **Android part in SOPT 26th, 27th, 28th (2020~)**  
-**KH Information Educational Institute (2019)**
+**실시간 브레인 스토밍 툴 STORM 개발 (2020)**  
+**실거주자 기반 매물 정보 서비스 Zeepy Android Developer (2021~)**  
 
 
