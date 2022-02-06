@@ -11,7 +11,7 @@
  
 **🏡 실거주자 기반 매물 정보 서비스 Zeepy,  Android Tech (2021~) [Play Store Download](https://play.google.com/store/apps/details?id=com.zeepy.zeepyforandroid)**  
  
-**☕ 믿고보는 카페 맵 Capin,  Android Tech  (2021~)**   
+**☕ 믿고보는 카페 맵 Capin,  Android Tech  (2021~) [Play Store Download](https://play.google.com/store/apps/details?id=com.caffeine.capin)**   
  
 **🏝 성향기반 제주도 여행지 추천 서비스 Tridy,  
  &nbsp;&nbsp;&nbsp;&nbsp;(🏆2021 관광 데이터 활용 공모전 최우수상 수상작🏆), Android Tech (2021~) &nbsp;[Play Store Download](https://play.google.com/store/apps/details?id=org.journey.tridy_android)**  
