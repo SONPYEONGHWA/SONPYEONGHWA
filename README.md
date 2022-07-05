@@ -2,7 +2,7 @@
 
 **Major in Management Information System at MyongJi Univ (2015~)**  
 **Android Application 개발자 양성과정, KH Information Educational Institute (2019)**  
-**Android part in SOPT 26th, 27th, 28th (2020~)**  
+**Android part in SOPT 26th, 27th, 28th (2020~2021)**  
 **FLAB Android Tech (2021~)**
 
 ### <center> ⭐Projects⭐ <center/>  
